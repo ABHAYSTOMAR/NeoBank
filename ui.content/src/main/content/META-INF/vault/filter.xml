@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/NeoBank" mode="merge"/>
+    <filter root="/content/NeoBank" mode="merge"/>
+    <filter root="/content/dam/NeoBank/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/NeoBank" mode="merge"/>
+</workspaceFilter>

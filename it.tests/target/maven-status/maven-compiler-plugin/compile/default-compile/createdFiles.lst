@@ -1,0 +1,4 @@
+com\adobe\aem\neobank\it\tests\PublishPageValidationIT.class
+com\adobe\aem\neobank\it\tests\HtmlUnitClient.class
+com\adobe\aem\neobank\it\tests\GetPageIT.class
+com\adobe\aem\neobank\it\tests\CreatePageIT.class
